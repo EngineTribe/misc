@@ -1,1 +1,1 @@
-0 0 * * * bash ~/enginetribe-misc/perform-backup.sh
+0 0 * * * bash ~/enginetribe-misc/backup/perform-backup.sh
