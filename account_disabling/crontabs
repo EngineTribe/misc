@@ -1,0 +1,1 @@
+0 1,5,9,13,17,21 * * * bash -c 'cd ~/EngineTribe/utils; python disable_accounts.py'
